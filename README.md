@@ -13,7 +13,7 @@ I enjoy building scalable applications, backend systems, and data processing.
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="35"/>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="35"/>
+<img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="35"/>
 <img src="https://unpkg.com/leaflet@1.9.4/dist/images/logo.png" width="35"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="35"/>
